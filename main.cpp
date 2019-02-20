@@ -1,12 +1,11 @@
 /*************************************************************************************************************
-CIS 22B
-Lab 1: This program reads from a file containing 10 scores of a student in each line.
+ This program reads from a file containing 10 scores of a student in each line.
        Then it calculates the average final score of each student and stores them in
        a vector. The vector is then sorted before the class average and median are
        calculated. The scores are displayed to in ascending order along with the median
        and average score.
 Author: Vincent Nguyen
-Date: 1/18/19
+Date: 2/20/19
 *************************************************************************************************************/
 
 #include <iostream>
